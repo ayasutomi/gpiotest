@@ -14,3 +14,5 @@ while True:
     GPIO.output(17, output)  # turn on pin 17
     GPIO.output(18, 1)  # turn on pin 18
 
+print ("GPIO2")
+
